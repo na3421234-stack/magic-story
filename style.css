@@ -1,0 +1,24 @@
+form{
+    position: relative;
+    display: flex;
+    flex-direction:row;
+    background-color: rgb(243, 180, 243);
+    height: 40px;
+    width: 1530px;
+}
+
+#text{
+    width: 200px;
+    height: 30px;
+    border: 1px solid #dddddd;
+    padding: 1 10px 3px 10px;
+    direction: rtl;
+}
+
+#btn{
+    width: 50px;
+    height:100;
+    background-color: rgb(106, 47, 113);
+    border:1px solid #dddddd;
+    border-radius: 10px;
+}
